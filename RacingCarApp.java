@@ -23,6 +23,8 @@ public class RacingCarApp
         carsList[5] = new Car(1984, "Ferrari");
         carsList[6] = new Car(2008, "Kia");
         carsList[7] = new Car(2006, "Honda");
+        carsList[8] = new Car(2025, "Mercedes");
+
 
         for(int i = 0; i < carsList.length; i++) {
             for(int j = 1; j <= 30 ; j++) {    
